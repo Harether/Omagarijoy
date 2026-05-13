@@ -1,2 +1,2 @@
-# BMS-Table-Template
-BMS難易度表のテンプレートです。
+# Omagarijoy
+さあ、思いっきりかきまわしてみようか？
